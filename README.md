@@ -30,18 +30,7 @@ this document sets out the aims of the module, learning objectives and provides 
 
 ## Assessments
 
-This module will have two types of assessment
-
-- formative weekly short questions
-- Time Controlled Assessment assignments
-
-***Weekly short assessments*** will be marked on a very simple scheme to allow rapid feedback:
-    
-- 100 for a correct answer
-- 50 for an incorrect answer with substantial correct working displayed and a reasonable demonstration of understanding the question material similar to a logbook entry for the question.
-- 0 for an incorrect answer without supporting material
-
-Feedback will be provided in partially worked solutions that will be presented in the tutorial session. There will be time in the workshop sessions to get extra feedack from  the lecturers and demonstrators on your work.
+This module will have two assignments
 
 ***Time Controlled Assessment assignments*** will consist of mini projects to be tackled over a period of a few days e.g. construct a predictive model from this data using methods you have seen in the module. They will be marked on an extended rubric detailing requirements for each degree classification:
 
@@ -55,9 +44,9 @@ A full rubric will be provided and examples given leading up to the TCA.
 
 ## Deadlines
 
-Weekly short questions will be opened to you in the Monday session on the material covered in the online lecture. They should be submitted online by 3 the following Monday. This will allow feedback to be given in the following sessions.
+Weekly short questions will be included in the lecture materials in the Monday session on the material covered in the online lecture. You should attempt these and discuss with lecturers and demonstrators toallow feedback to be given in the following sessions.
 
-There will be two time constrained assessments assignments. The first semester TCA will be on 19th Jan 2021.
+There will be two time constrained assessments assignments.
 
 ## Logbooks
 
@@ -83,9 +72,9 @@ Alos, when submitting work you should attach evidence of your working, which wou
 
 in principle you can use any high level programming language as the focus is on understanding the numerical methods not the computing.
 
-- we recommend and support the use of C++ or Python
-- To work with C++ you can use MS Visual Studio which is installed in the computer labs and also is freely downloadable from [here](https://visualstudio.microsoft.com/). There are many other options and depending on the power of your computer and operating system there may be better options - ask us. <img src='C++_logo.png' width=100px>
+- we highly recommend that you use Python for this course
 - to work with Python I recommend Anaconda python which can be downloaded from [here](https://www.anaconda.com/products/individual) - click on the download button then pick the correct installer. I like using Jupyter notebooks – see the notebooks on Blackboard for reminder on how to use them - but there are many other nice working environments.  <img src='python_logo.png' width=100px>
+- To work with C++ you can use MS Visual Studio which is installed in the computer labs and also is freely downloadable from [here](https://visualstudio.microsoft.com/). There are many other options and depending on the power of your computer and operating system there may be better options - ask us. <img src='C++_logo.png' width=100px>
 
 You can use either of these languages – it would be very beneficial for you to see what parts are essential and what are trivial details of a particular language to try and use both. Would be good for your CV too.
 
@@ -110,8 +99,6 @@ plt.plot(x,y);
 ```python
 
 ```
-
-[Module Handbook](web/ModuleHandbook.jl.html)
 
 [Lecture 1](https://mattatlincoln.github.io/teaching/numerical_methods/lecture_1)
 
