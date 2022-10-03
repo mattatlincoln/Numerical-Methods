@@ -114,4 +114,4 @@ plt.plot(x,y);
 
 [Lecture 8](https://mattatlincoln.github.io/teaching/numerical_methods/lecture_8)
 
-[Lecture 8](https://mattatlincoln.github.io/teaching/numerical_methods/lecture_10)
+[Lecture 10](https://mattatlincoln.github.io/teaching/numerical_methods/lecture_10)
