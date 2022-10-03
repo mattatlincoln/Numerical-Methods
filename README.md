@@ -1,6 +1,6 @@
-## Welcome to Numerical Methods 21-22
+## Welcome to Numerical Methods
 
-[Module Handbook](web/ModuleHandbook_NumericalMethods.jl.html)
+[Module Handbook](web/ModuleHandbook.jl.html)
 
 [Lecture 1](https://mattatlincoln.github.io/teaching/numerical_methods/lecture_1)
 
@@ -8,7 +8,7 @@
 
 [Lecture 3](https://mattatlincoln.github.io/teaching/numerical_methods/lecture_3)
 
-[Lecture 4](https://mattatlincoln.github.io/Numerical-Methods-2122/lectures/Lecture4.jl.html)
+[Lecture 4](https://mattatlincoln.github.io/Numerical-Methods-2223/lectures/Lecture4.jl.html)
 
 [Lecture 5](https://mattatlincoln.github.io/teaching/numerical_methods/lecture_5)
 
