@@ -30,7 +30,9 @@ this document sets out the aims of the module, learning objectives and provides 
 
 ## Assessments
 
-This module will have two assignments
+Bi-weekly short progress assessments - 20% of the mark. These will be carried out in-class by academics and demonstrators. You will submit your work on Bb and then ask to have your work examined. You need to demonstrate an understanding of the methods used - both theory and computer code to implement the numerical methods. At the end of each half semester you will be credited with the mark if you have passed all the tests in that portion of the course. If you cannot demonstrate sufficient knowledge of the material in the test you can resubmit and try again. This is an opportunity to discuss your understanding of the material and to gain crucial feedback from your instructors.
+
+This module will also have two TCA assignments - at the end of each semester (80% of total mark, 40% for each TCA).
 
 ***Time Controlled Assessment assignments*** will consist of mini projects to be tackled over a period of a few days e.g. construct a predictive model from this data using methods you have seen in the module. They will be marked on an extended rubric detailing requirements for each degree classification:
 
