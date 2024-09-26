@@ -30,16 +30,16 @@ this document sets out the aims of the module, learning objectives and provides 
 
 ## Assessments
 
-3 short tests per term - 20% of the mark. These will be carried out in-class by academics and demonstrators. You will submit your work on Bb and then ask to have your work examined. You need to demonstrate an understanding of the methods used - both theory and computer code to implement the numerical methods. At the end of each half semester you will be credited with the mark if you have passed all the tests in that portion of the course. If you cannot demonstrate sufficient knowledge of the material in the test you can resubmit and try again. This is an opportunity to discuss your understanding of the material and to gain crucial feedback from your instructors.
+2 short tests per term - 20% of the mark. The assessment of these will be carried out in-class by academics and demonstrators. You will submit your work on Bb and then ask to have your work examined. You need to demonstrate an understanding of the methods used - both theory and computer code to implement the numerical methods. At the end of each half semester you will be credited with the mark if you have passed all the tests in that portion of the course. If you cannot demonstrate sufficient knowledge of the material in the test you can resubmit and try again. This is an opportunity to discuss your understanding of the material and to gain crucial feedback from your instructors.
 
 This module will also have two in-class tests - at the end of each semester (80% of total mark, 40% for each test).
 The questions will be in a similar spirit as the weekly exercises and short-tests.
 
 ## Deadlines
 
-Weekly short questions will be included in the lecture materials in the Monday session on the material covered in the online lecture. You should attempt these and discuss with lecturers and demonstrators toallow feedback to be given in the following sessions.
+Weekly short questions will be based on the lecture materials of the sessions before they are set. You should attempt these and discuss with lecturers and demonstrators toallow feedback to be given in the following sessions.
 
-There will be two time constrained assessments assignments.
+There will be two in-class tests.
 
 ## Logbooks
 
@@ -47,9 +47,9 @@ Logbooks will not be directly assessed in this module.
 
 **BUT** we reallly do recommend that you keep a logbook for your own benefit. It is good professional practice and ...
 
-you can use your logbooks in Time Controlled Assessments.
+you can use your logbooks in in-class tests.
 
-Alos, when submitting work you should attach evidence of your working, which would be very similar to relevant pages from your logbook.
+Also, when submitting work you should attach evidence of your working, which would be very similar to relevant pages from your 'logbook'.
 
 ## Module Contents 
 
@@ -60,7 +60,6 @@ Alos, when submitting work you should attach evidence of your working, which wou
 - Numerical solution of partial differential equations.
 - Elements of stochastic methods.
 
-
 ## Tools
 
 in principle you can use any high level programming language as the focus is on understanding the numerical methods not the computing.
@@ -70,7 +69,6 @@ in principle you can use any high level programming language as the focus is on 
 - To work with C++ you can use MS Visual Studio which is installed in the computer labs and also is freely downloadable from [here](https://visualstudio.microsoft.com/). There are many other options and depending on the power of your computer and operating system there may be better options - ask us. <img src='C++_logo.png' width=100px>
 
 You can use either of these languages – it would be very beneficial for you to see what parts are essential and what are trivial details of a particular language to try and use both. Would be good for your CV too.
-
 
 ```python
 import numpy as np
@@ -92,6 +90,7 @@ plt.plot(x,y);
 ```python
 
 ```
+1st semester Lectures:
 
 [Lecture 1](https://mattatlincoln.github.io/teaching/numerical_methods/lecture_1)
 
