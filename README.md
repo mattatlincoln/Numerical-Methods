@@ -30,10 +30,8 @@ this document sets out the aims of the module, learning objectives and provides 
 
 ## Assessments
 
-2 short tests per term - 20% of the mark. The assessment of these will be carried out in-class by academics and demonstrators. You will submit your work on Bb and then ask to have your work examined. You need to demonstrate an understanding of the methods used - both theory and computer code to implement the numerical methods. At the end of each half semester you will be credited with the mark if you have passed all the tests in that portion of the course. If you cannot demonstrate sufficient knowledge of the material in the test you can resubmit and try again. This is an opportunity to discuss your understanding of the material and to gain crucial feedback from your instructors.
-
-This module will also have two in-class tests - at the end of each semester (80% of total mark, 40% for each test).
-The questions will be in a similar spirit as the weekly exercises and short-tests.
+This module will have two in-class exams - at the end of each semester (100% of total mark, 50% for each test).
+The questions will be in a similar spirit to the weekly exercises. They will be a mixture of previously seen problems and problem solving exercises.
 
 ## Deadlines
 
