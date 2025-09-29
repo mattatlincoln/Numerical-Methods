@@ -63,7 +63,8 @@ Also, when submitting work you should attach evidence of your working, which wou
 in principle you can use any high level programming language as the focus is on understanding the numerical methods not the computing.
 
 - we highly recommend that you use Python for this course
-- to work with Python I recommend Anaconda python which can be downloaded from [here](https://www.anaconda.com/products/individual) - click on the download button then pick the correct installer. I like using Jupyter notebooks – see the notebooks on Blackboard for reminder on how to use them - but there are many other nice working environments.  <img src='python_logo.png' width=100px>
+- I'll be using the installed python and VS Code on a machine identical to those on the desks in the lab
+- to work with Python on your own computer I recommend Anaconda python which can be downloaded from [here](https://www.anaconda.com/products/individual) - click on the download button then pick the correct installer. I like using Jupyter notebooks – see the notebooks on Blackboard for reminder on how to use them - but there are many other nice working environments.  <img src='python_logo.png' width=100px>
 - To work with C++ you can use MS Visual Studio which is installed in the computer labs and also is freely downloadable from [here](https://visualstudio.microsoft.com/). There are many other options and depending on the power of your computer and operating system there may be better options - ask us. <img src='C++_logo.png' width=100px>
 
 You can use either of these languages – it would be very beneficial for you to see what parts are essential and what are trivial details of a particular language to try and use both. Would be good for your CV too.
