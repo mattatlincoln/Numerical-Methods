@@ -1,6 +1,6 @@
 ## Welcome to Numerical Methods
 
-# Module Handbook for Numerical Methods (MTH3007M)
+# Module Handbook for Numerical Methods (MTH3007)
 
 this document sets out the aims of the module, learning objectives and provides some use background material and suggestions.
 
@@ -31,7 +31,10 @@ this document sets out the aims of the module, learning objectives and provides 
 ## Assessments
 
 This module will have two in-class exams - at the end of each semester (100% of total mark, 50% for each test).
+
 The questions will be in a similar spirit to the weekly exercises. They will be a mixture of previously seen problems and problem solving exercises.
+
+Additionally there will be two 'optional' formative assessments you are advised to attempt. These will be assessed during regular sessions. If you pass these they will count as 20% of the overall mark and the in-class test marks will make up the remaining 80%. If you do not attempt or do not pass these formative assessments then all of the marks will come from the in-class tests.  
 
 ## Deadlines
 
@@ -63,11 +66,8 @@ Also, when submitting work you should attach evidence of your working, which wou
 in principle you can use any high level programming language as the focus is on understanding the numerical methods not the computing.
 
 - we highly recommend that you use Python for this course
-- I'll be using the installed python and VS Code on a machine identical to those on the desks in the lab
+- I'll be using python and VS Code as an editor - this is the same setup you can find on the desktop machines in the labs
 - to work with Python on your own computer I recommend Anaconda python which can be downloaded from [here](https://www.anaconda.com/products/individual) - click on the download button then pick the correct installer. I like using Jupyter notebooks – see the notebooks on Blackboard for reminder on how to use them - but there are many other nice working environments.  <img src='python_logo.png' width=100px>
-- To work with C++ you can use MS Visual Studio which is installed in the computer labs and also is freely downloadable from [here](https://visualstudio.microsoft.com/). There are many other options and depending on the power of your computer and operating system there may be better options - ask us. <img src='C++_logo.png' width=100px>
-
-You can use either of these languages – it would be very beneficial for you to see what parts are essential and what are trivial details of a particular language to try and use both. Would be good for your CV too.
 
 ```python
 import numpy as np
