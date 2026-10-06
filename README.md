@@ -67,7 +67,8 @@ in principle you can use any high level programming language as the focus is on 
 
 - we highly recommend that you use Python for this course
 - I'll be using python and VS Code as an editor - this is the same setup you can find on the desktop machines in the labs
-- to work with Python on your own computer I recommend Anaconda python which can be downloaded from [here](https://www.anaconda.com/products/individual) - click on the download button then pick the correct installer. I like using Jupyter notebooks – see the notebooks on Blackboard for reminder on how to use them - but there are many other nice working environments.  <img src='python_logo.png' width=100px>
+- to work with Python on your own computer I recommend Anaconda python which can be downloaded from [here](https://www.anaconda.com/products/individual) - click on the download button then pick the correct installer. Miniconda is a good choice if you have limited space on your computer.
+- I like using Jupyter notebooks – see the notebooks on Blackboard for reminder on how to use them - but there are many other nice working environments.  <img src='python_logo.png' width=100px>
 
 ```python
 import numpy as np
