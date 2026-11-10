@@ -32,9 +32,7 @@ this document sets out the aims of the module, learning objectives and provides 
 
 This module will have two in-class exams - at the end of each semester (100% of total mark, 50% for each test).
 
-The questions will be in a similar spirit to the weekly exercises. They will be a mixture of previously seen problems and problem solving exercises.
-
-Additionally there will be two 'optional' formative assessments you are advised to attempt. These will be assessed during regular sessions. If you pass these they will count as 20% of the overall mark and the in-class test marks will make up the remaining 80%. If you do not attempt or do not pass these formative assessments then all of the marks will come from the in-class tests.  
+The questions will be in a similar spirit to the weekly exercises. They will be a mixture of previously seen problems and problem solving exercises. One exercise in each test will be made available to you prior to the test so you can prepare you answer.  
 
 ## Deadlines
 
